@@ -61,7 +61,7 @@ Then, __the optimal bid_price is \$0.10__, obtained as follows:
 Thus, it is obtained that (advertiser_amount - __\$0.1__) * P(win | __\$0.1__) is the maximum value (see the table below). 
 
 <figure>
-    <img src="images/tab2.png" style="float: center; margin-right: 10px; width: 40%"/>
+    <img src="images/tab2.png" style="float: center; margin-right: 10px; width: 50%"/>
 </figure>
 
 It should be mentioned that this reasoning can be reproduced to obtain the bid price (which does not have to be the same) that optimizes the expected profit when different values of 'advertiser_amount' are considered.
