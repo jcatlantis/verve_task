@@ -1,4 +1,4 @@
-# Verve Group Data Science Case Study
+# Data Science Case Study
 #### Solutions with calculation details, as well as interactive plots can be found in the [jupyter notebook](https://github.com/jcatlantis/verve_task/blob/057ee6ba6a901d8c87c3741940234ef861a3c78f/analysis.ipynb).
 
 ### Load a json file with the data
